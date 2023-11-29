@@ -3,10 +3,10 @@
 Esto es una prueba como **introductorio** de mi primer *Github*.
 
 
-'''
+´´´
 x = rnorm(10)
 hist(x)
-'''
+´´´
 
 
 ## Sección 1
